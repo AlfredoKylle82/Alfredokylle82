@@ -13,9 +13,9 @@ Once a **self-endowed tic-tac-toe programmer**, now a **frontend engineer** at *
 ---
 
 ### 🚀 **Currently Working On**
-- 🔹 **Crafting high-performance front-end solutions** in Next.js  
-- 🔹 **Enhancing app purchase & authentication flows** with Django APIs  
-- 🔹 **Designing interactive prototypes** to streamline development cycles  
+-  **Crafting high-performance front-end solutions** in Next.js  
+-  **Enhancing app purchase & authentication flows** with Django APIs  
+-  **Designing interactive prototypes** to streamline development cycles  
 
 ---
 
