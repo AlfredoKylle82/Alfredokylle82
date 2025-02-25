@@ -5,9 +5,11 @@ Once a self-endowed tic-tac-toe programmer, now a frontend engineer at Kidaken I
 
 🚀 Currently Working On:
 
-Crafting high-performance front-end solutions in Next.js
-Enhancing app purchase & authentication flows with Django APIs
-Designing interactive prototypes to streamline development cycles
+🔹 Crafting high-performance front-end solutions in Next.js
+🔹 Enhancing app purchase & authentication flows with Django APIs
+🔹 Designing interactive prototypes to streamline development cycles
+
+I thrive on problem-solving, design thinking, and continuous learning—because great developers are always evolving. Let’s build something awesome! 🚀
 
 <!--
 **AlfredoKylle82/Alfredokylle82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
