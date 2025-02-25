@@ -34,5 +34,6 @@ My journey started in C# game design, but I’ve since built and refined my expe
 
 ---
 
-**💡 I thrive on problem-solving, design thinking, and continuous learning—because great developers are always evolving.**  
+**💡 I thrive on problem-solving, design thinking, and continuous learning—because great developers are always evolving.** 
+
 🔥 Let’s build something awesome! 🚀  
