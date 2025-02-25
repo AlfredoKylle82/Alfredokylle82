@@ -9,7 +9,7 @@
 ---
 
 <p align="center"> Once a self-endowed tic-tac-toe programmer, now a fullstack engineer at Kidaken Inc, where I bring ideas to life with <b>sleek, responsive web apps.</b> 
-My journey started in C# game design, but I’ve since built and refined my expertise in <b>Next.js, React, JavaScript, backend services, and API integrations.</b> </h2>
+My journey started in C# game design, but I’ve since built and refined my expertise in <b>Next.js, React, JavaScript, backend architecture, and API integrations.</b> </h2>
 
 ---
 
