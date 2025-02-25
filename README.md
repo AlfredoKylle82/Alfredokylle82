@@ -1,4 +1,14 @@
-## Hi there 👋
+# 👋 Hey, I’m Alfredo Kylle Navarro III
+💻
+## Fullstack Engineer | Software Tester | Aspiring Entrepreneur ##
+
+Once a self-endowed tic-tac-toe programmer, now a frontend engineer at Kidaken Inc, where I turn ideas into sleek, responsive web apps. My journey started with C# game design, but I’ve since built and refined my skills in Next.js, React, JavaScript, and API integrations.
+
+🚀 Currently Working On:
+
+Crafting high-performance front-end solutions in Next.js
+Enhancing app purchase & authentication flows with Django APIs
+Designing interactive prototypes to streamline development cycles
 
 <!--
 **AlfredoKylle82/Alfredokylle82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
