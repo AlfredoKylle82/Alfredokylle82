@@ -11,15 +11,10 @@
   My journey started with C# game design, but I’ve since built and refined my skills in Next.js, React, JavaScript, and API integrations.
 </p>
 
-<h3 align="center">🚀 Currently Working On:</h3>
+🚀 Currently Working On:
 
-<ul align="center">
-  <li>🔹 Crafting high-performance front-end solutions in Next.js</li>
-  <li>🔹 Enhancing app purchase & authentication flows with Django APIs</li>
-  <li>🔹 Designing interactive prototypes to streamline development cycles</li>
-</ul>
+ Crafting high-performance front-end solutions in Next.js
+ Enhancing app purchase & authentication flows with Django APIs
+ Designing interactive prototypes to streamline development cycles
 
-<p align="center">
-  I thrive on problem-solving, design thinking, and continuous learning—because great developers are always evolving. <br>
-  Let’s build something awesome! 🚀
-</p>
+I thrive on problem-solving, design thinking, and continuous learning—because great developers are always evolving. Let’s build something awesome! 🚀
