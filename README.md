@@ -1,7 +1,10 @@
-<h1 align="center">$ whoami</h1>
+<h1 align="center">👋 Hey, I’m Alfredo Kylle Navarro III</h1>
 
-```Alfredo Kylle Navarro III $ echo "💻 Fullstack Engineer | Web Developer" $ cat skills.txt JavaScript, TypeScript, React, Next.js, Node.js, Django, PostgreSQL $ ./lets-build-something-awesome 🚀```
+<h3 align="center">💻 Fullstack Engineer | Web Developer</h3>
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/gR92EF4p9XyEHyD2n5/giphy.gif?cid=6c09b952cfcyh79qzkahofl1qdq3213mwdc37iwa2pk2wir5&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="tic-tac-toe Banner" width="400"/>
+</p>
 
 <h3 align="center">💻 Fullstack Engineer | Web Developer</h3>
 
