@@ -11,6 +11,8 @@
   My journey started with C# game design, but I’ve since built and refined my skills in Next.js, React, JavaScript, and API integrations.
 </p>
 
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━</p> <!-- This creates a horizontal line -->
+
 🚀 Currently Working On:
 
 <li> Crafting high-performance front-end solutions in Next.js </li>
