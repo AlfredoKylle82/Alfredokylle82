@@ -8,17 +8,30 @@
 
 ---
 
-Once a **self-endowed tic-tac-toe programmer**, now a **frontend engineer** at **Kidaken Inc**, where I bring ideas to life with **sleek, responsive web apps**. My journey started in **C# game design**, but I’ve since built and refined my expertise in **Next.js, React, JavaScript, and API integrations**.
+Once a **self-endowed tic-tac-toe programmer**, now a **fullstack engineer** at **Kidaken Inc**, where I bring ideas to life with **sleek, responsive web apps**. My journey started in **C# game design**, but I’ve since built and refined my expertise in **Next.js, React, JavaScript, backend services, and API integrations**.
 
 ---
 
 ### 🚀 **Currently Working On**
--  **Crafting high-performance front-end solutions** in Next.js  
--  **Enhancing app purchase & authentication flows** with Django APIs  
--  **Designing interactive prototypes** to streamline development cycles  
+- 🔹 **Crafting high-performance front-end solutions** in Next.js  
+- 🔹 **Enhancing app purchase & authentication flows** with Django APIs  
+- 🔹 **Designing interactive prototypes** to streamline development cycles  
+
+---
+
+### 🛠 **Tech Stack & Skills**
+#### **Frontend**  
+- **Languages:** JavaScript (ES6+), TypeScript, HTML, CSS/SCSS  
+- **Frameworks & Libraries:** React.js, Next.js, Material-UI, TailwindCSS  
+- **Tools:** Figma, Git, VS Code, Jira  
+
+#### **Backend**  
+- **Languages:** Java, Python, JavaScript (Node.js)  
+- **Frameworks:** Django, Spring Boot, Express.js  
+- **Databases:** PostgreSQL, MySQL, MongoDB, Neo4j  
+- **APIs & Tools:** RESTful APIs, GraphQL, Axios, Postman, Firebase  
 
 ---
 
 **I thrive on problem-solving, design thinking, and continuous learning—because great developers are always evolving.**  
-
 Let’s build something awesome! 🚀  
