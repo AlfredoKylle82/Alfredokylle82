@@ -1,7 +1,8 @@
 # 👋 Hey, I’m Alfredo Kylle Navarro III
 **💻 Fullstack Engineer | Web Developer**
 
-Once a self-endowed **tic-tac-toe programmer**, now a **frontend engineer** at **Kidaken Inc**, where I turn ideas into sleek, responsive web apps. My journey started with **C# game design**, but I’ve since built and refined my skills in **Next.js, React, JavaScript, and API integrations**.
+Once a self-endowed tic-tac-toe programmer, now a frontend engineer at Kidaken Inc, where I turn ideas into sleek, responsive web apps. My journey started with C# game design, but I’ve since built and refined my skills in Next.js, React, JavaScript, and API integrations.
+
 
 
 🚀 Currently Working On:
