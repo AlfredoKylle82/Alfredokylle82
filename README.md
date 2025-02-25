@@ -1,6 +1,6 @@
 <h1 align="center">$ whoami</h1>
 
-'''Alfredo Kylle Navarro III $ echo "💻 Fullstack Engineer | Web Developer" $ cat skills.txt JavaScript, TypeScript, React, Next.js, Node.js, Django, PostgreSQL $ ./lets-build-something-awesome 🚀'''
+```Alfredo Kylle Navarro III $ echo "💻 Fullstack Engineer | Web Developer" $ cat skills.txt JavaScript, TypeScript, React, Next.js, Node.js, Django, PostgreSQL $ ./lets-build-something-awesome 🚀```
 
 
 <h3 align="center">💻 Fullstack Engineer | Web Developer</h3>
