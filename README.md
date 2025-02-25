@@ -13,8 +13,8 @@
 
 🚀 Currently Working On:
 
- Crafting high-performance front-end solutions in Next.js
- Enhancing app purchase & authentication flows with Django APIs
- Designing interactive prototypes to streamline development cycles
+<li> Crafting high-performance front-end solutions in Next.js </li>
+<li> Enhancing app purchase & authentication flows with Django APIs </li>
+<li> Designing interactive prototypes to streamline development cycles </li>
 
 I thrive on problem-solving, design thinking, and continuous learning—because great developers are always evolving. Let’s build something awesome! 🚀
