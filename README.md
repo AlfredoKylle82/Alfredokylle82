@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Alfredo Kylle Navarro III
 **💻 Fullstack Engineer | Web Developer**
 
-![Pac-Man Banner](https://i.pinimg.com/originals/68/43/cc/6843cc365df18febde115bc70eb15290.gif/pacman.gif)
+![Pac-Man Banner](https://i.pinimg.com/originals/68/43/cc/6843cc365df18febde115bc70eb15290.gif)
 
 
 Once a self-endowed tic-tac-toe programmer, now a frontend engineer at Kidaken Inc, where I turn ideas into sleek, responsive web apps. My journey started with C# game design, but I’ve since built and refined my skills in Next.js, React, JavaScript, and API integrations.
